@@ -22,3 +22,4 @@
 - Lord of the rings
 - Miss Kobayashi's Dragon Maid
 - Lilo & Stitch
+- detective conan
